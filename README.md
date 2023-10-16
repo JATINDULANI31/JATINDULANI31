@@ -25,7 +25,7 @@ Hi, I'm Jatin Kumar Dulani!
 📚 I am doing Bachelors in Computer Engineering at IIIT Bhubaneswar
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning, Machine Learning and Natural Language Processing
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning more about Machine Learning and Deep learning stuff
 🌟 Languages: Python, C++, C
 </pre>
 <hr>
