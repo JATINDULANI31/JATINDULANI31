@@ -24,9 +24,8 @@ Hi, I'm Jatin Kumar Dulani!
 💻 I am a Machine Learning and Deep Learning Enthusiasts
 📚 I am doing Bachelors in Computer Engineering at IIIT Bhubaneswar
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning, Machine Learning and Natural Language Processing
-🌱 Learning more about Machine Learning and Deep learning stuff
-🌟 Languages: Python, C++, C
+🔭 Working on Deep Learning and Computer Vision
+🌟 Languages: C++,Python,C
 </pre>
 <hr>
 <img width = "30%" img height="65%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
