@@ -8,7 +8,7 @@ Hi, I'm Jatin Kumar Dulani!
 <hr>
 
 <pre>
-💻 I am a keen interest in Deep learning and Computer vision.
+💻 I have a keen interest in Deep learning and Computer vision.
 📚 I am currently pursuing Bachelors in Computer Engineering from IIIT Bhubaneswar
 🌟 Languages: C,C++,Python
 </pre>
